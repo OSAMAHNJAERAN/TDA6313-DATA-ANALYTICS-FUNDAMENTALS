@@ -1,4 +1,6 @@
-# 📊 Alibaba Group E-commerce Big Data Case Study
+﻿# 📊 Alibaba Group E-commerce Big Data Case Study
+
+### 📘 Course Project: TDA6313-DATA ANALYTICS FUNDAMENTALS
 
 [![Domain: Big Data](https://img.shields.io/badge/Domain-Big_Data_Analytics-00AAD2?style=for-the-badge)]()
 [![Course: Semester 6](https://img.shields.io/badge/Course-Semester_6-blueviolet?style=for-the-badge)]()
