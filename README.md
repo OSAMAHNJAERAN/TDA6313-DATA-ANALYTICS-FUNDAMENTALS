@@ -19,7 +19,7 @@ The **Alibaba Group Case Study** is an extensive analytical research project foc
 
 ## 📈 Artifacts
 
-![Case Study Document](assets/alibaba_case_study.png)
+![Case Study Document](media/presentation.png)
 *Figure 1: An excerpt from the comprehensive architecture and data flow analysis document.*
 
 ## 📂 Project Structure
